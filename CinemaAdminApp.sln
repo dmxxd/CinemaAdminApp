@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CinemaAdminApp", "CinemaAdminApp\CinemaAdminApp.csproj", "{9A7E4B7B-3E11-4612-A8A3-288A9A64A65C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A7E4B7B-3E11-4612-A8A3-288A9A64A65C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A7E4B7B-3E11-4612-A8A3-288A9A64A65C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A7E4B7B-3E11-4612-A8A3-288A9A64A65C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A7E4B7B-3E11-4612-A8A3-288A9A64A65C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBAC95E2-1522-4FF8-9F0B-472B6DBAA1B7}
+	EndGlobalSection
+EndGlobal
